@@ -25,7 +25,7 @@ A single-file web app for discovering music by vibe using the Deezer API. Simply
 - Resumes where you left off when you return
 - Uses browser localStorage for seamless experience
 
-### 🎨 **Beautiful Design**
+### 🎨 **Simple Design**
 - Modern gradient background with glassmorphism effects
 - Responsive grid layout that works on all devices
 - Clean, minimal interface focused on music discovery
@@ -41,8 +41,6 @@ A single-file web app for discovering music by vibe using the Deezer API. Simply
 
 - **Single File Architecture**: Everything in one `index.html` file - no build tools required
 - **CORS Proxy Integration**: Seamlessly handles API requests without server setup
-- **Error Handling**: Graceful handling of network issues and empty results
-- **Performance Optimized**: Lazy image loading and efficient audio management
 - **Mobile Responsive**: Works perfectly on desktop, tablet, and mobile devices
 
 ## 🚀 Getting Started
@@ -88,14 +86,6 @@ Try these example vibes to get started:
 - **CORS Proxy**: `corsproxy.io` enables browser-based API calls
 - **No External Dependencies**: Pure HTML, CSS, and JavaScript
 
-## 📱 Browser Compatibility
-
-Works on all modern browsers including:
-- Chrome/Chromium
-- Firefox
-- Safari
-- Edge
-
 ## 🤝 Contributing
 
 This is a single-file project, making contributions simple:
@@ -108,7 +98,3 @@ This is a single-file project, making contributions simple:
 ## 📄 License
 
 Open source project - feel free to fork, modify, and share!
-
----
-
-**Made with ❤️ for music lovers who want to discover new tracks based on their current vibe.**
